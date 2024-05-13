@@ -1,3 +1,1 @@
-사과 8000원
-
-Init, Update, Feat, Bugfix, hotfix
+수박 추가 : 300원
